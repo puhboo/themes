@@ -1,7 +1,7 @@
 {
   "name": "puhbuReMOLEDTEST",
   "description": "hello chat",
-  "version": "0.94a TEST",
+  "version": "0.95a TEST",
   "authors": [
       {
           "name": "puhbu",
@@ -263,7 +263,7 @@
       "PLUM_16": "#23172d",
       "PLUM_17": "#131318",
       "PLUM_18": "#000000",
-      "PLUM_19": "#ffffff",
+      "PLUM_19": "#000000",
       "PLUM_20": "#000000",
       "PLUM_21": "#1F1818",
       "PLUM_22": "#0D0712",
